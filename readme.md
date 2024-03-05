@@ -6,7 +6,7 @@ Welcome to the repository for our final year project at **BIET Jhansi**. We are 
 
 Our project aims to develop a wireless charging system for mobile phones. This technology will revolutionize how devices are powered, offering convenience and flexibility.
 
-## Group Members
+## Group Members (Team 1 )
 
 - **Jatin Dhanuk**
 - **Pawan Mishra**
