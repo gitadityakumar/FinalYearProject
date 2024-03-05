@@ -36,8 +36,6 @@ For any inquiries or collaboration opportunities, feel free to reach out to us:
 - Pawan Mishra
 - Aditya Kumar 
 
-Thank you for your interest in our project!
-
 ## Notice
 
 The project is still in development, and this repository will be updated shortly.
